@@ -4,10 +4,9 @@
 ### Projects
 **Math Maze Game, Software Engineering Class Project**
 
-In a team of 3 devolpers, built a web-based educational game for 1st/2nd graders. 
-- Used SveltKit (TypeScript), Supabase, PhaserJS and Bun
-- Applied the Agile methodology with client presentations
-- focused on feature prioritization and integrated Supabase authentication and database management
+In a team of 3 devolpers, built a web-based educational game for 1st/2nd graders to practice math skills in a fun and engaging way. 
+
+[See detailed project Math Maze Game](./MathMazeGame.md)
 
 **Website Developement, Web Applications Class Project**
 
