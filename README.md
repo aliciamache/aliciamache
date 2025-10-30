@@ -11,8 +11,8 @@ In a team of 3 devolpers, built a web-based educational game for 1st/2nd graders
 **Website Developement, Web Applications Class Project**
 
 Designed and developed an improved website for a local Salt Lake City business 
-- used HTML, CSS and Django
-- created a more intuitive user experience
+
+[See detailed project](./WebisteDevelopement.md)
 
 <h3>Contact</h3>
 <ul>
