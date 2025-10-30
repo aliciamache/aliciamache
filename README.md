@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/aliciamache">linkedin.com/in/aliciamache</a>
   </li>
 </ul>
-<h4> View My Resume (PDF)(./AMacheResume.pdf)</h4>
+<h4> View My Resume (PDF)(./AMacheResume.pdf) h4>
   
 
 
