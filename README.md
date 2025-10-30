@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there!
 
-<!--
-**aliciamache/aliciamache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Alicia and I am a 4th year Business Computer Information Systems at Westminster University. I enjoy taking real life business problems and using my technical skills to find soloutions for them. Here are some projects I have worked on over the last few years. 
+### Projects
+<h3>Contact</h3>
+<ul>
+  <li>Email: alicialm26@gmail.com</li>
+  <li>
+    LinkedIn:
+    <a href="https://www.linkedin.com/in/aliciamache">linkedin.com/in/aliciamache</a>
+  </li>
+</ul>
+<h4> View My Resume (PDF)(./AMacheResume.pdf)</h4>
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
