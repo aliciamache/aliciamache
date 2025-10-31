@@ -4,13 +4,13 @@
 ### Projects
 **Math Maze Game, Software Engineering Class Project**
 
-In a team of 3 devolpers, built a web-based educational game for 1st/2nd graders to practice math skills in a fun and engaging way. 
+Collaborated with a team of three developers to build a web-based educational game that helps 1st- and 2nd-grade students practice math skills in a fun, engaging way.
 
 [See detailed project Math Maze Game](./MathMazeGame.md)
 
 **Website Developement, Web Applications Class Project**
 
-Designed and developed an improved website for a local Salt Lake City business 
+Designed and developed an improved website for a local Salt Lake City business. 
 
 [See detailed project](./WebisteDevelopement.md)
 
