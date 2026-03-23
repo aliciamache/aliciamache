@@ -1,6 +1,6 @@
 ## Hi there!
 
-### My name is Alicia and I am a 4th year Business Computer Information Systems at Westminster University. I enjoy taking real life business problems and using my technical skills to find soloutions for them. Here are some projects I have worked on over the last few years. 
+### My name is Alicia and I am a 4th year Business Computer Information Systems student at Westminster University. I enjoy taking real life business problems and using my technical skills to find soloutions for them. Here are some projects I have worked on over the last few years. 
 ### Projects
 **Math Maze Game, Software Engineering Class Project**
 
