@@ -14,6 +14,7 @@ Designed and developed an improved website for a local Salt Lake City business.
 
 [See detailed project](./WebsiteDevelopement.md)
 
+
 <h3>Contact</h3>
 <ul>
   <li>Email: alicialm26@gmail.com</li>
