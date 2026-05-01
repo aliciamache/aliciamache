@@ -12,7 +12,7 @@ Collaborated with a team of three developers to build a web-based educational ga
 
 Designed and developed an improved website for a local Salt Lake City business. 
 
-[See detailed project](./WebsiteDevelopement.md)
+[See detailed project](./WebsiteDevelopment.md)
 
 
 <h3>Contact</h3>
