@@ -1,6 +1,11 @@
 ## Hi there!
 
-### My name is Alicia and I am a 4th year Business Computer Information Systems student at Westminster University. I enjoy taking real life business problems and using my technical skills to find soloutions for them. Here are some projects I have worked on over the last few years. 
+#### I believe technology and data should be used not just to help businesses succeed, but to create smarter solutions for the world around us. My name is Alicia Mache, and I am a fourth-year Business Computer Information Systems student at Westminster University. I enjoy combining business strategy with technical skills to solve real world problems and improve how organizations operate.
+
+#### Through my coursework and projects, I have developed skills in data analysis, problem solving, and building technical solutions that support business decision making. I also have a strong passion for the outdoors and the environment, which motivates me to think about how technology and business can be used to create a more sustainable and efficient future.
+
+#### I invite you to explore my portfolio to see the projects and work I have completed over the past few years.
+
 ### Projects
 **Math Maze Game, Software Engineering Class Project**
 
