@@ -3,7 +3,8 @@
 ## Description 
 I developed a web application that connects hikers, skiers, and trail runners to share rides simply and reliably. The platform allows users to offer or request rides based on location and time, helping outdoor enthusiasts reach trailheads and resorts more efficiently. In addition to improving accessibility, the app gamifies sustainability by awarding users achievements for reducing the number of vehicles on the road and lowering overall CO₂ emissions.
 
-Link to repository: 
+Link to repository: [here](https://github.com/aliciamache/CanyonCruise)
+
 ## Features
 - User log-in and authenticaiton with email and password
 - Ability to offer and request rides
