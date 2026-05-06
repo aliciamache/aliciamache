@@ -9,7 +9,7 @@ I worked in a team of 3 developers and 3 designers to create an improved website
 - Can see all of the services offered and information about the owner
 - Takes users to the sceduale appointment page
 - Improved the acessibilty by adding bigger buttons and creating an aesthetic design
-- Did 2 rounds of user testing, survarying cutomers 
+- Did 2 rounds of user testing, surveying cutomers 
 
 ## Tools
 Used Django, HTML and CSS
