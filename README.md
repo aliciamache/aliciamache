@@ -1,24 +1,54 @@
-## Hi there!
+## Hi, I'm Alicia!
 
-#### I believe technology and data should be used not just to help businesses succeed, but to create smarter solutions for the world around us. My name is Alicia Mache, and I am a fourth-year Business Computer Information Systems student at Westminster University. I enjoy combining business strategy with technical skills to solve real world problems and improve how organizations operate.
+I’m a fourth year Business Computer Information Systems student at Westminster University, focused on using data and technology to solve real-world problems.
 
-#### Through my coursework and projects, I have developed skills in data analysis, problem solving, and building technical solutions that support business decision making. I also have a strong passion for the outdoors and the environment, which motivates me to think about how technology and business can be used to create a more sustainable and efficient future.
+I’m especially interested in combining business strategy, data analysis, and software development to build efficient and sustainable solutions particularly in areas related to the outdoors and environmental impact. 
 
-#### I invite you to explore my portfolio to see the projects and work I have completed over the past few years.
+I invite you to explore my portfolio to see the projects and work I have completed over the past few years.
 
-### Projects
-**Math Maze Game, Software Engineering Class Project**
+---
 
-Collaborated with a team of three developers to build a web-based educational game that helps 1st- and 2nd-grade students practice math skills in a fun, engaging way.
+## Projects
 
-[See detailed project Math Maze Game](./MathMazeGame.md)
+### Featured Projects 
 
-**Website Developement, Web Applications Class Project**
+**CanyonCruise (Senior Capstone)**  
+Built a carpooling platform for outdoor enthusiasts to reduce emissions and improve access to recreation.  
+→ [View Project](./CanyonCruise.md)
 
-Designed and developed an improved website for a local Salt Lake City business. 
+**Customer Review Analysis (Power BI)**  
+Developed an interactive dashboard to identify key drivers of customer satisfaction.  
+→ [View Project](./CustomerReview.md)
 
-[See detailed project](./WebsiteDevelopment.md)
+**SQL Database Application (Java)**  
+Created a database system to store and manage carpooling data.  
+→ [View Project](./SQLapp.md)
 
+---
+
+### Data and Analytics Projects
+
+**Airbnb Data Analysis (R)**  
+Analyzed large datasets to explain pricing trends in Airbnb listings.  
+→ [View Project](./AirbnbAnalysis.md)
+
+**Ski Resort Web Scraping (Python)**  
+Scraped and analyzed ski resort data to explore the relationship between resort size and lift ticket prices.  
+→ [View Project](./WebScrap.md)
+
+---
+
+### Group Projects
+
+**Math Maze Game**  
+Collaborated with a team to build an educational web game for elementary students.  
+→ [View Project](./MathMazeGame.md)
+
+**Website Development Project**  
+Redesigned and developed a website for a local Salt Lake City business.  
+→ [View Project](./WebsiteDevelopment.md)
+
+---
 
 <h3>Contact</h3>
 <ul>
